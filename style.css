@@ -5,6 +5,10 @@
     font-family: 'Bangers', cursive;
 }
 
+body {
+    background-color: black;
+}
+
 #canvas1 {
     background: url('./assets/images/background.png');
     position: absolute;
